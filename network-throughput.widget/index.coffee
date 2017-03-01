@@ -20,6 +20,8 @@ style: """
     background rgba(#000, .5)
     padding 10px 10px 15px
     border-radius 5px
+    
+    -webkit-backdrop-filter blur(10px) brightness(80%) contrast(100%) saturate(140%)
 
     .container
         width: 300px
